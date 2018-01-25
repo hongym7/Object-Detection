@@ -36,5 +36,6 @@ np.sum(best_net_correct)
   
     
 conclusion :    
- - after softmax value(probability) 
- 
+ - after softmax value(probability)
+
+   소프트맥스한결과에서(확률값)평균값을구하여argmax
