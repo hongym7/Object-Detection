@@ -32,3 +32,9 @@ np.sum(ensemble_correct)
 
 np.sum(best_net_correct)  
 9649
+  
+  
+    
+conclusion :    
+ - after softmax value(probability) 
+ 
