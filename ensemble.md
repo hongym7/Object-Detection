@@ -39,3 +39,10 @@ conclusion :    
  - after softmax value(probability)
 
    소프트맥스한결과에서(확률값)평균값을구하여argmax
+
+
+
+([ 0.964 ,  0.9649,  0.9632,  0.96  ,  0.9639])
+
+9691
+9649
